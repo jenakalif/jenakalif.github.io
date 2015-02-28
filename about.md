@@ -1,11 +1,7 @@
 ---
 layout: page
-title: About
+title: About Kindred Spirits
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Jena Donlin created kindredspirits.io to collect her musings and ideas from the book she reads and live she leads. You can check out what she's reading on [Goodreads](https://www.goodreads.com/user/show/22412421-jena) and connect with her on [LinkedIn](https://www.linkedin.com/pub/jena-donlin/11/818/300/) to see what she's up to professionally.
