@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Kindred Spirits
+title: About
 permalink: /about/
 ---
 
