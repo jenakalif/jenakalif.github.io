@@ -6,6 +6,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://kindredspirits.io" # the base hostname & protocol for your site
 twitter_username: donlinje
 github_username:  jenakalif
+goodreads_url: "https://www.goodreads.com/user/show/22412421-jena"
+linkedin_url: "https://www.linkedin.com/pub/jena-donlin/11/818/300/"
 
 # Build settings
 markdown: kramdown
